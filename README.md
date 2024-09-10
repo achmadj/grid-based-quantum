@@ -29,7 +29,7 @@ conda activate pyquest
 
 3. Install PyQuEST: 
 ```bash
-pip install ./pyquest
+pip install ./pyQuEST
 ```
 
 4. Install numpy, jupyter and matplotlib:

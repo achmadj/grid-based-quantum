@@ -23,10 +23,12 @@ change dir to grid-based-quantum repo
 cd grid-based-quantum
 ```
 create pyquest conda env
-```conda create -n pyquest python=3.9 -y
+```
+conda create -n pyquest python=3.9 -y
 ```
 then activate the conda environment with
-```conda activate pyquest
+```
+conda activate pyquest
 ```
 
 3. Install PyQuEST: 

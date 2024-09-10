@@ -17,14 +17,16 @@ More detailed instructions can be found in the first notebook
 bash ./install_miniconda.sh
 ```
 
-2. Create new python environment: 
+2. Create new python environment:
+change dir to grid-based-quantum repo
 ```bash
-# change dir to grid-based-quantum repo
 cd grid-based-quantum
-# create pyquest conda env
-conda create -n pyquest python=3.9 -y
-# then activate the conda environment with
-conda activate pyquest
+```
+create pyquest conda env
+```conda create -n pyquest python=3.9 -y
+```
+then activate the conda environment with
+```conda activate pyquest
 ```
 
 3. Install PyQuEST: 

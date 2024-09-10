@@ -32,7 +32,7 @@ conda activate pyquest
 pip install ./pyQuEST
 ```
 
-4. Install numpy, jupyter and matplotlib:
+4. Install necessary dependencies by running:
 ```bash
 pip install numpy==1.26.4 jupyter matplotlib
 ```

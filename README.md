@@ -29,7 +29,7 @@ conda activate pyquest
 
 3. Install PyQuEST: 
 ```bash
-pip install ./pyQuEST
+pip install -e ./pyQuEST
 ```
 
 4. Install necessary dependencies by running:

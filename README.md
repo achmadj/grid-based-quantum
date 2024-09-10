@@ -17,16 +17,16 @@ More detailed instructions can be found in the first notebook
 bash ./install_miniconda.sh
 ```
 
-2. Install PyQuEST: 
-```bash
-pip install ./pyquest
-```
-
-3. Create new python environment: 
+2. Create new python environment: 
 ```bash
 conda create -n pyquest python=3.9
 # then activate the conda environment with
 conda activate pyquest
+```
+
+3. Install PyQuEST: 
+```bash
+pip install ./pyquest
 ```
 
 4. Install numpy, jupyter and matplotlib:

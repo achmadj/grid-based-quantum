@@ -12,7 +12,7 @@ This repo contains algorithm demos which uses [pyQuEST](https://github.com/rrmei
 
 ## Installation
 More detailed instructions can be found in the first notebook
-1. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html) if you don't have it already (I prefer miniconda).
+1. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html) if you don't have it already.
 ```bash
 bash ./install_miniconda.sh
 ```
